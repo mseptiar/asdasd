@@ -4,8 +4,8 @@ Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa. Here is 
 
 Spreadsheet/ Excel Skill sets:
 
-Data Cleaning;
-Query Table;
+* Data Cleaning;
+* Query Table;
 Pivot Table;
 Vlookup;
 Descriptive Statistics;
