@@ -1,6 +1,6 @@
-# Data Analytics Portfolio by Dharma Wangsa
+# Data Analytics Portfolio by m.septiar
 
-Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa. Here is my Portfolio as Data Analyst, please check it out!
+Hi! My name is Muhammad Septiarmansyah Adiputra, just called me Tiar. Here is my Portfolio as Data Analyst, please check it out!
 
 Spreadsheet/ Excel Skill sets:
 
@@ -14,7 +14,7 @@ Spreadsheet/ Excel Skill sets:
 * A/B Testing
 
 Deck :
-Data Cleaning and Processing in Spreadsheet
+1. Data Cleaning and Processing in Spreadsheet
 
 * SQL Skill sets:
 * Standard Query Syntax;
@@ -25,11 +25,11 @@ Data Cleaning and Processing in Spreadsheet
 * SQL Window Function
 
 Code Example :
-Create a query to get average amount of duration (in minutes)
-Create a query to get total trips and total number of unique bikes grouped by region name
-Get latest detail trip in each region
-Create a query to get trip data and add one column to show total cumulative total trips in that region
-Find the youngest and oldest age of the members, for each gender. Assume this year is 2021
+1. Create a query to get average amount of duration (in minutes)
+2. Create a query to get total trips and total number of unique bikes grouped by region name
+3. Get latest detail trip in each region
+4. Create a query to get trip data and add one column to show total cumulative total trips in that region
+5. Find the youngest and oldest age of the members, for each gender. Assume this year is 2021
 
 Python Skill sets:
 * Removing irrelevant values
@@ -44,17 +44,20 @@ Python Skill sets:
 * Cluster Analysis
 
 Code example:
-E-commerce Public Dataset
-Property List Dataset
+1. E-commerce Public Dataset
+2. Property List Dataset
+
 Dataviz using Tableau:
-Connect and combine/ join datasets
-Data formatting
-Visualization
-Calculated field
-Interactive Dashboard
+* Connect and combine/ join datasets;
+* Data formatting;
+* Visualization;
+* Calculated field;
+* Interactive Dashboard;
+* 
 Example:
-Order Performance Dashboard in Brazil Region
-Order Performance Dashboard in Brazil Region v2
-Netflix Movies and TV Series Overview Dashboard
+1. Order Performance Dashboard in Brazil Region
+2. Order Performance Dashboard in Brazil Region v2
+3. Netflix Movies and TV Series Overview Dashboard
+
 Project Based Analytics
-Bakery Performance Analysis
+1. Bakery Performance Analysis
