@@ -1,7 +1,9 @@
 # Data Analytics Portfolio by Dharma Wangsa
+
 Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa. Here is my Portfolio as Data Analyst, please check it out!
 
 Spreadsheet/ Excel Skill sets:
+
 Data Cleaning;
 Query Table;
 Pivot Table;
@@ -10,6 +12,7 @@ Descriptive Statistics;
 Data Visualization;
 Gathering Insights;
 A/B Testing
+
 Deck :
 Data Cleaning and Processing in Spreadsheet
 
