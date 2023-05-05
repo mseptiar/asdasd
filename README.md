@@ -53,7 +53,7 @@ Dataviz using Tableau:
 * Visualization;
 * Calculated field;
 * Interactive Dashboard;
-* 
+
 Example:
 1. Order Performance Dashboard in Brazil Region
 2. Order Performance Dashboard in Brazil Region v2
