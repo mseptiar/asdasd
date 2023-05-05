@@ -16,7 +16,7 @@ Spreadsheet/ Excel Skill sets:
 Deck :
 1. Data Cleaning and Processing in Spreadsheet
 
-* SQL Skill sets:
+SQL Skill sets:
 * Standard Query Syntax;
 * SQL Aggregate Functions;
 * SQL Joins;
